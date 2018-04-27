@@ -1,5 +1,9 @@
 MDS Wallet是一款移动端轻钱包APP，为区块链用户提供一款安全放心、简单好用、功能强大，并内置保障智能合的数字资产钱包应用
 
+下载：
+
+http://www.medishares.org/wallet/cn/
+
 主要功能：
 
 1. 安全保障，全球第一款基于智能合约提供数字资产保障的钱包
@@ -17,6 +21,10 @@ https://github.com/MediShares/mds-wallet/issues
 ===
 
 The MDS wallet is a multi blockchain wallet for simplicity and security. You can easily send and receive ethereum payments instantly.
+
+Download:
+
+http://www.medishares.org/wallet/en/
 
 Features:
 
